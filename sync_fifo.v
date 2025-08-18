@@ -66,6 +66,3 @@ module sync_fifo
     end
 
 endmodule
-
-```
-c:\Users\anura\OneDrive\Pictures\Screenshots\Screenshot 2025-08-19 000433.png
