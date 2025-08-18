@@ -16,6 +16,11 @@ There are two types of FIFOs
 # Synchronous FIFO
 <img width="749" height="354" alt="image" src="https://github.com/user-attachments/assets/02695ce2-efa9-4181-9cbb-4b0c2267d032" />
 
+<img width="1037" height="521" alt="image" src="https://github.com/user-attachments/assets/73fe98c9-15fb-45c7-ac74-8f2ec194c221" />
+
+
+<img width="469" height="264" alt="image" src="https://github.com/user-attachments/assets/1bca0c57-0a5d-40c3-8b65-9bc62a308c4d" />
+
 
 In Synchronous FIFO, data read and write operations use the same clock frequency. Usually, they are used with high clock frequency to support high-speed systems.
 Synchronous FIFO Operation
